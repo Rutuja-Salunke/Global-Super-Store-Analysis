@@ -1,4 +1,4 @@
-# Global-Super-Store-Analysis
+# "Navigating Success: Global Superstore's Journey through Data"
 
 ![Excel 1](https://github.com/Rutuja-Salunke/Global-Super-Store-Analysis/assets/102023809/077a764e-b49c-4ead-91c1-720fd58f5a5e)
 # .
