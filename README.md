@@ -6,7 +6,7 @@
 # Total Sales :
 - The Global Superstore has achieved impressive total sales of $12.64 million.
 
-# Profit:
+# Profit :
 - Despite the high sales figures, the profit margin is $1.47 million, indicating that managing costs and expenses is crucial.
 
 ## Geographical Insights (Map):
