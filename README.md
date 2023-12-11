@@ -3,10 +3,10 @@
 ![Excel 1](https://github.com/Rutuja-Salunke/Global-Super-Store-Analysis/assets/102023809/077a764e-b49c-4ead-91c1-720fd58f5a5e)
 # 
 
-# Total Sales :
+## Total Sales :
 - The Global Superstore has achieved impressive total sales of $12.64 million.
 
-# Profit :
+## Profit :
 - Despite the high sales figures, the profit margin is $1.47 million, indicating that managing costs and expenses is crucial.
 
 ## Geographical Insights (Map):
