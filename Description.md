@@ -1,10 +1,10 @@
 # "Navigating Success: Global Superstore's Journey through Data"
 
  This retail chain specialized in selling office supplies, furniture, and cutting-edge technology. The story of the Global Superstore's remarkable journey to success unfolds through the lens of data.
-##  Data Import and Cleaning:
+##  Data Import and Cleaning :
 Excel is used to import and clean the Global Superstore dataset. This includes removing duplicates, handling missing data, and formatting the dataset for analysis.
 
-## Descriptive Statistics: 
+## Descriptive Statistics : 
 Excel's built-in functions are employed to calculate essential descriptive statistics such as mean, median, and standard deviation for sales, profit, and other relevant variables. This provides a basic understanding of the dataset's characteristics.
 
 ## Data Visualization: 
